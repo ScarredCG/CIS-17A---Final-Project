@@ -1,10 +1,10 @@
 #pragma once
-class Team
+class Role
 {
 private:
 
 public:
-	Team();
-	~Team();
+	Role();
+	~Role();
 };
 
